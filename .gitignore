@@ -1,0 +1,15 @@
+venvironment/
+__pycache__/
+*.pyc
+*.log
+.env
+.DS_Store
+.idea/
+.vscode/
+node_modules/   
+dist/
+build/
+*.egg-info/
+coverage/
+htmlcov/
+.tox/
